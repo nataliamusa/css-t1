@@ -1,0 +1,14 @@
+body { background-color:white; }
+.design {
+    text-align: center;
+     h1 {color: black;}
+    p { color: gray;}
+}
+.design-item{
+    h2 { color: black;}
+}
+.s {
+    text-align:center;
+    
+   
+}
